@@ -1,29 +1,9 @@
-Node.jsをインストールしたら下記のコマンドを実行
+# tensile
 
-npm install
+### 作品URL: https://u-22-2022.web.app/
 
-npm install -g serve
+### ポートフォリオURL: https://online-portfolio-57709.web.app/experiences/tensile.html
 
-その後src直下にfirebaseフォルダを作成してfirebaseConfig.jsファイルを作成
+私はこの開発でPMとレーティング開発を担当しています。
 
-u22/src/firebase/firebaseConfig.js <-こんな感じ
-
-
-### ビルド
-npm run build
-
-### フォーマット
-npm run fmt
-
-### ビルドとフォーマット
-npm run all
-
-### ローカルホスト
-serve もしくは firebase serve
-
-### 禁止事項
-firebase deploy コマンドの実行
-
-上記に書いていないnpmパッケージのインストール
-
-src, public配下以外のファイルの編集
+ポートフォリオに詳細を掲載しておりますので、ぜひご一読ください。
